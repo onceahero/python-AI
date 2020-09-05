@@ -1,2 +1,2 @@
-master iiinput
-d1 inputi
+master input
+d1 input
